@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "ethers": "^6.6.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  }
+}
